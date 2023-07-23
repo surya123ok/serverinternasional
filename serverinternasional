@@ -2,7 +2,7 @@
 /* container */
 .three-columns {
     display:flex;
-}
+} 
 
 /* columns */
 .three-columns > * {
