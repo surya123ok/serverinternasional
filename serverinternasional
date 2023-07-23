@@ -1,0 +1,27 @@
+<style>
+.grid-container {
+  display: grid;
+  height: 400px;
+  align-content: center;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+</style>
+
+<h1>INTERNATIONAL SERVER</h1>
+
+
+<div class="grid-container">
+  <div><img src="https://i.ibb.co/RgbFg6r/counter-dubai.gif" alt="counter-dubai" border="0"></div>
+  <div><img src="https://i.ibb.co/RgbFg6r/counter-dubai.gif" alt="counter-dubai" border="0"></div>
+  <div><img src="https://i.ibb.co/RgbFg6r/counter-dubai.gif" alt="counter-dubai" border="0"></div>   
+</div>
